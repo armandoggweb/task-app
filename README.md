@@ -1,1 +1,1 @@
-
+First react app I've made from The Odin Project JavScript path. It allows you to create a task list, adding any amount of tasks with the possibilty of edit and delete them.
